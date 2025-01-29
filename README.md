@@ -32,6 +32,8 @@ Contains experiments with different tensor manipulations functions in Pytorch.
         - Adds an additional dimension to the existing tensor.
     - How [`torch.nn.functional.pad`](https://pytorch.org/docs/stable/generated/torch.nn.functional.pad.html#torch.nn.functional.pad) works?
         - Adds padding to tensors.
+    - How to perform slicing on tensors by regular indexing?
+    - How [`torch.unbind`](https://pytorch.org/docs/stable/generated/torch.unbind.html#torch-unbind) works?
 
 - [`understanding_tensor_manipulations_part_2.ipynb`](tensor_manipulations/understanding_tensor_manipulations_part_2.ipynb)
     - How [`torch.cat`](https://pytorch.org/docs/stable/generated/torch.cat.html#torch.cat) works?
